@@ -16,7 +16,7 @@ if diaFesta == int:
     print("Ana esta fazendo a compras no dia da festa")
 else:
     print("Ana não esta fazendo no dia da festa")
-if(pedidominimoPizza <= pedidoPizza):
+if(pedidoPizza <= pedidominimoPizza):
     print("Ana não comprou pizza suficientes!")
 else:
     print("Ana comprou pizza suficientes!")
@@ -32,3 +32,5 @@ if(pedidominimoDoce > pedidoDoce):
     print("Ana não comprou doces suficiente")
 else:
     print("Ana comprou doces suficientes")
+
+
